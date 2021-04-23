@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://abbeyepage.github.io/</loc>
+    <loc>https://abbeyepage.github.io/about/</loc>
   </url>
   
   <url>
@@ -11,7 +11,19 @@
   </url>
   
   <url>
+    <loc>https://abbeyepage.github.io/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://abbeyepage.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abbeyepage.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abbeyepage.github.io/publications/</loc>
   </url>
   
   <url>

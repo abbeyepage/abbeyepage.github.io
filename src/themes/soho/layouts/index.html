@@ -1,6 +1,6 @@
 {{ define "main" -}}
 
-{{ with .Site.GetPage "index.md" }}<div>{{ .Title }}</div>{{ end }}
-{{ with .Site.GetPage "index.md" }}<div>{{ .Content }}</div>{{ end }}
+{{ with .Site.Home }}<h1>{{ .Title }}</h1>{{ end }}
+{{ with .Site.Home }}<div>{{ .Content }}</div>{{ end }}
 
 {{- end }}
