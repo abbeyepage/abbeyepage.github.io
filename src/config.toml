@@ -1,22 +1,21 @@
 baseurl = "https://example.com/"
 languageCode = "en"
-title = "Soho Theme"
+title = "Abbey Page"
 theme = "Soho"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-summarylength = 10
+summarylength = 50
 enableEmoji = true
 paginate = 5
 
 [params]
-title = "Soho Theme"
-description = "Example Blog"
-# gravatar = "soho@example.com"
+title = "Abbey Page"
+description = ""
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
-copyright = "Author Name"
-license = "CC BY-SA 4.0"
-licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+copyright = "Abigail Page"
+license = "MIT"
+licenseURL = "https://opensource.org/licenses/MIT"
 builtWith = true
 mainSections = ["post"]
 
@@ -38,18 +37,7 @@ mainSections = ["post"]
   title = "Twitter"
   url = "https://twitter.com/abbeyepage"
 
-[taxonomies]
-  series = "series"
-  category = "categories"
-  tag = "tags"
-
 [menu]
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 100
-  identifier = "posts"
-  url = "/posts/"
 
   [[menu.main]]
   name = "About"
@@ -62,6 +50,18 @@ mainSections = ["post"]
   identifier = "contact"
   weight = 20
   url = "/contact/"
+
+  [[menu.main]]
+  name = "Projects"
+  identifier = "projects"
+  weight = 20
+  url = "/projects/"
+
+  [[menu.main]]
+  name = "Publications"
+  identifier = "publications"
+  weight = 20
+  url = "/publications/"
 
 [markup]
 
