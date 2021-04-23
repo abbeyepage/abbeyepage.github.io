@@ -2,4 +2,4 @@
 title = "About"
 +++
 
-YO it the about page
+About Page

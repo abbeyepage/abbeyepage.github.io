@@ -2,4 +2,4 @@
 title = "Contact"
 +++
 
-Get in contact with us!
+Contact Page
