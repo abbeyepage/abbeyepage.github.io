@@ -1,6 +1,6 @@
 baseurl = "https://abbeyepage.github.io/"
 languageCode = "en"
-title = "Abbey Page"
+title = "Abbey E. Page"
 theme = "Soho"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -11,8 +11,8 @@ paginate = 5
 [params]
 title = "Abbey Page"
 description = ""
-images = ["images/profile.png"]
-profilePicture = "images/profile.png"
+images = ["images/Abbey.jpg"]
+profilePicture = "images/Abbey.jpg"
 copyright = "Abigail Page"
 license = "MIT"
 licenseURL = "https://opensource.org/licenses/MIT"
