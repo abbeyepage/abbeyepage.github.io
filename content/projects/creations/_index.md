@@ -6,7 +6,7 @@ link: Not applicable
 sitemap:
   priority: 0.5
   weight: 0.8
-title: Creations
+title: Current Projects
 weight: 10
 ---
 <!--
