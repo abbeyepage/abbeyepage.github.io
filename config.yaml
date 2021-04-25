@@ -1,0 +1,38 @@
+title: Abigail E. Page
+baseURL: https://example.com/
+theme: hugo-resume
+languageCode: en-us
+PygmentsCodeFences: yes
+PygmentsCodeFencesGuessSyntax: yes
+PygmentsStyle: monokai
+enableGitInfo: no
+params:
+  address: London, UK
+  email: abigail.page@lshtm.ac.uk
+  favicon: /favicon.ico
+  firstName: Abigail E.
+  google:
+    analytics:
+      trackerID: XX-123446-01
+  handles:
+    - link: https://www.twitter.com/abbeyepage/
+      name: Twitter
+    - link: https://github.com/abbeyepage/
+      name: GitHub
+    - link: https://scholar.google.com/citations?user=1zK4C10AAAAJ
+      name: Google Scholar
+  lastName: Page
+  profileImage: img/Abbey.jpg
+  showEducation: yes
+  showExperience: yes
+  showOpenSource: no
+  showProjects: yes
+  showPublications: yes
+  showQr: no
+  showSkills: no
+outputs:
+  home:
+    - HTML
+    - JSON
+taxonomies:
+  tag: tags
