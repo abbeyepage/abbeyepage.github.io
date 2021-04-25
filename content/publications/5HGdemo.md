@@ -1,47 +1,28 @@
 ---
-date: "2021-05-02"
-description: Using survey data collected online from 515 UK mothers with infants aged 0–108 weeks, Cox regression models assessed the relationship between receiving different types of support, support need and breastfeeding duration.
+date: "2020-11-02"
+description: We provide recommendations about the application of hunter-gatherer data to the study of demographic trends throughout human evolution. We use published demographic data from extant hunter-gatherers to show that it is the diversity seen among extant hunter-gatherers that is most relevant for understanding past hunter-gatherer demography.
 fact: NA
 featured: true
-image: /img/SMpaper.png
-link: https://protect-eu.mimecast.com/s/5lzZCl714T1ErlrcGDoFp?domain=royalsocietypublishing.org
+image: /img/HGpaper.png
+link: https://onlinelibrary.wiley.com/doi/full/10.1002/evan.21869
 pubtype: Journal article
 sitemap:
   priority: 0.8
 tags:
-- Social support
-- Maternal-child health
-- Cooperative childrearing
-- Evolutionary ecology
-- Multidisiplinary
+- Demography
+- Fertility
+- Hunter-gatherers
+- Life history 
+- Prehistory 
 
-title: 'Myers, S., Page, A. E. and Emmott, E. H., (2021) The differential role of practical and emotional support in infant feeding experience in the UK? Phil Trans. B.'
+title: 'Page, A. E. and French, J. C. (2020) Reconstructing prehistoric demography. Evolutionary Anthropology'
 weight: 400
 ---
 **Citation**
 
-Myers, S., Page, A. E. and Emmott, E. H., (2021) The differential role of practical and emotional support in infant feeding experience in the UK? Phil Trans. B.....
+Page, A. E. and French, J. C. (2020) Reconstructing prehistoric demography: What role for extant hunter-gatherers? Evolutionary Anthropology, 29(6): 332-345. doi.org/10.1002/evan.21869  
 
 **Abstract** 
 
-Social support is a known determinant of breastfeeding behaviour and is generally considered beneficial. However, social support encompasses a
-myriad of different supportive acts, providing scope for diverse infant feeding
-outcomes. Given the vulnerability of postpartum mental health, this
-paper aims to explore both how support prolongs breastfeeding and
-which forms of support promote the positive experience of all infant feeding.
-Using survey data collected online from 515 UK mothers with infants aged
-0–108 weeks, Cox regression models assessed the relationship between
-receiving different types of support, support need and breastfeeding duration.
-Quasi-binomial logistic regression models assessed the relationship
-between receiving support, infant feeding mode and maternal experience
-of infant feeding. Rates of negative infant feeding experience indicate the
-widespread need for support: e.g. 38% of currently, 47% of no longer and
-31% of never breastfeeding women found infant feeding stressful. Overall,
-practical support via infant feeding broadly predicted shorter breastfeeding
-durations and poorer feeding experience; results in relation to other forms of
-support were more complex. Our findings indicate different forms of support
-have different associations with infant feeding experience. They also
-highlight the wide range of individuals beyond the nuclear family on
-which postpartum mothers in the UK rely.
-This article is part of the theme issue ‘Multidisciplinary perspectives on
-social support and maternal-child health’.
+Demography is central to biological, behavioral, and cultural evolution. Knowledge of the demography of prehistoric populations of both Homo sapiens and earlier members of the genus Homo is, therefore, key to the study of human evolution. Unfortunately, demographic processes (fertility, mortality, migration) leave little mark on the archeological and paleoanthropological records. One common solution to this issue is the application of demographic data from extant hunter-gatherers to prehistory. With the aim of strengthening this line of enquiry, here we outline some pitfalls and their interpretative implications. In doing so, we provide recommendations about the application of hunter-gatherer data to the study of demographic trends throughout human evolution. We use published demographic data from extant hunter-gatherers
+to show that it is the diversity seen among extant hunter-gatherers—both intra- and inter-population variability—that is most relevant and useful for understanding past hunter-gatherer demography.
