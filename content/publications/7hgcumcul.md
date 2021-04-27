@@ -10,10 +10,11 @@ sitemap:
   priority: 0.8
 tags:
 - Hunter-gatherers
-- wireless sensing networks
+- Wireless sensing networks
 - Social networks
 - Cultural evolution
-- multilevel social structure
+- Multilevel social structure
+- Agta
 
 title: 'Migliano, A. B. et al. (2020) Hunter-gatherers multilevel sociality accelerates the evolution of cumulative culture. Science Advances'
 weight: 400
