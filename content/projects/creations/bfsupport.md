@@ -1,5 +1,5 @@
 ---
-date: "2021-02-05T12:41:05-05:00"
+date: "2021-02-01T12:41:05-05:00"
 description: This project investigates the different kinds of support mothers of infants receive from different sources (such as fathers, grandmothers and professionals), and the impact this has on maternal experience and infant feeding. Findings will contribute to public health understandings of how best to support mothers during the first few years of their children’s lives.
 featured: true
 image:
@@ -35,5 +35,6 @@ In an analysis looking at the maternal perception of the environment we found th
 
 In a OSF pre-print we also explore the role of social support in buffering the supposed negative effects of breastfeeding problems on breastfeeding duration. The interest in exploring this question arose from the observation that breastfeeding problems are very common (in fact around 94% of our sample reported at least one problem, and almost 50% suffered 2 or 3 problems), and women often report breastfeeding problems - such as pain, insufficient milk or latch issues - as reasons to stop breastfeeding, some women are able to overcome and deal with these problems to continue breastfeeding while others are not. We were interested in understanding if it was variability in experience in social support which predicted the relationship between problem and duration. We found that breastfeeding problems were important predictors of cessation but the direction of the effect was dependent on the type of problem, and dependent on if support was received. Support for discomfort issues (blocked ducts, too much milk) significantly reduced the hazard of cessation, as predicted. However, helpful support for reported milk insufficiency increased the hazard of cessation. To find out more check out our OSF pre-print on	[Testing the buffering hypothesis: breastfeeding problems, cessation and social support in the UK](https://osf.io/byf5g/).  
 
+While this project is now coming to a close, a Masters student in Reproductive and Sexual Health Research at the LSHTM is currently conducting a mixed-methods study focusing specifically on health visitors, maternal experience of breastfeeding and duration. In particular, Annika Chambers is interested in the relationship between emotional and informational support, and the degree the effectiveness of informational support is dependent on the receipt of emotional support. 
 
 ![alt text](/img/feeding.png)
