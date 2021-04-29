@@ -1,7 +1,7 @@
 {{ define "main" }}
    {{ partial "about.html" .}}
    {{ if .Site.Params.showProjects }}
-      {{ with .Site.GetPage "section" "projects/creations" }}
+      {{ with .Site.GetPage "section" "projects" }}
          {{ .Scratch.Set "sectionId" "projects" }}
          {{ partial "sectionSummary" . }}
       {{ end }}
