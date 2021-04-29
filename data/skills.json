@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Editor",
-      "skills":["Scientific Reports","Philosophical Transactions of the Royal Society B"]
+      "skills":["Scientific Reports (2018 - current)","Philosophical Transactions of the Royal Society B (2020-2021)"]
   },{
       "grouping":"Reviewer",
       "skills":[ "Journal of Biosocial Science","PLOS One","Evolution and Human Behaviour","Biological Reviews","Scientific Reports","NSF Cultural Anthropology","Philosophical Transactions of the Royal Society B","Behavioral Ecology","Social Sciences MPI", "American Journal of Human Biology"]
@@ -20,11 +20,11 @@
   },
       {
       "grouping":"Skills",
-      "skills":[ "Git", "RStats", "Mixed-effect models", "Social network analysis", "Cox regressions", "Data Science"]
+      "skills":[ "Git", "RStats", "Mixed-effect models", "Social network analysis", "Cox regressions", "Data Science", "Quantitative data collection", "Mixed-methods research", "Online surveys"]
   },
   {
       "grouping":"Academic principles and commitments",
-      "skills":[ "Mentorship","Kindness", "Co-production of Knowledge", "Transparency", "Open Science", "Capability Building"]
+      "skills":[ "Mentorship","Kindness", "Co-production of Knowledge", "Diversity in Science", "Transparency", "Open Science", "Capability Building"]
   },
     {
         "grouping":"Teaching Past and Present",
