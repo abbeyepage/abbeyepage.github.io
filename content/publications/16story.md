@@ -25,3 +25,7 @@ Smith, D., Schlaepfer, P., Major, K., Dyble, M., Page, A.E., Thompson, J., Chaud
 **Abstract** 
 
 Storytelling is a human universal. From gathering around the camp-fire telling tales of ancestors to watching the latest television box-set, humans are inveterate producers and consumers of stories. Despite its ubiquity, little attention has been given to understanding the function and evolution of storytelling. Here we explore the impact of storytelling on hunter-gatherer cooperative behaviour and the individual-level fitness benefits to being a skilled storyteller. Stories told by the Agta, a Filipino hunter-gatherer population, convey messages relevant to coordinating behaviour in a foraging ecology, such as cooperation, sex equality and egalitarianism. These themes are present in narratives from other foraging societies. We also show that the presence of good storytellers is associated with increased cooperation. In return, skilled storytellers are preferred social partners and have greater reproductive success, providing a pathway by which group-beneficial behaviours, such as storytelling, can evolve via individual-level selection. We conclude that one of the adaptive functions of storytelling among hunter gatherers may be to organise cooperation.
+
+**Video**
+
+{{< vimeo id="315476206" t="80" width="600px" >}}

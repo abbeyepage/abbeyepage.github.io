@@ -1,32 +1,33 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "grouping":"Editor",
+      "skills":["Scientific Reports","Philosophical Transactions of the Royal Society B"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "grouping":"Reviewer",
+      "skills":[ "Journal of Biosocial Science","PLOS One","Evolution and Human Behaviour","Biological Reviews","Scientific Reports","NSF Cultural Anthropology","Philosophical Transactions of the Royal Society B","Behavioral Ecology","Social Sciences MPI", "American Journal of Human Biology"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Academic societies",
+      "skills":[ "EHBEA","AAPA","HBA","BSPS"]
   },
   {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+      "grouping":"PhD and MSc Supervision",
+      "skills":[ "Dr Anushé Hassan (completed Jan 2021)","Annika Chambers (MSc Reproductive and Sexual Health Research)","Lily Bishop (MSc Demography and Health)"]
+  },
+    {
+      "grouping":"Service",
+      "skills":[ "Academic lead of LSHTM Young Scientists Programme","LSHTM Mentor"]
+  },
+      {
+      "grouping":"Skills",
+      "skills":[ "Git", "RStats", "Mixed-effect models", "Social network analysis", "Cox regressions", "Data Science"]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+      "grouping":"Academic principles and commitments",
+      "skills":[ "Mentorship","Kindness", "Co-production of Knowledge", "Transparency", "Open Science", "Capability Building"]
+  },
+    {
+        "grouping":"Teaching Past and Present",
+      "skills":[ "Contemporary Demographic Trends and Issues","Analyising Survey and Population Data", "Population Studies", "Population, Poverty and Enviroment", "Statistics for Epidemiology and Public Health", "Methods and Statistics in Evolutionary Anthropology", "Human Behavioural Ecology", "Methods and Research Techniques in Biological Anthropology", "Introduction to Biological Anthropology"]
   }
 ]

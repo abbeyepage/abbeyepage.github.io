@@ -29,7 +29,7 @@ params:
   showProjects: yes
   showPublications: yes
   showQr: no
-  showSkills: no
+  showSkills: yes
 outputs:
   home:
     - HTML

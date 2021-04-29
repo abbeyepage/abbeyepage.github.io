@@ -9,7 +9,7 @@ pubtype: Journal article
 sitemap:
   priority: 0.8
 tags:
-- Social network analysis
+- Social networks
 - Cooperation
 - Reproductive success
 - Proximity networks

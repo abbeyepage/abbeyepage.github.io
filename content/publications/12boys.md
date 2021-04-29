@@ -11,10 +11,10 @@ sitemap:
 tags:
 - Biased sex ratios
 - Female-biased infanticide/neglect
-- Male-biased mortality 
 - Hunter-gatherers
 - Agta 
 - Parental investment 
+- Mortality
 
 
 title: 'Page, A. E. et al. (2019) Why so many Agta boys. Evolutionary Human Sciences'

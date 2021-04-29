@@ -14,6 +14,9 @@ tags:
 - Life-history trade-offs
 - Agta
 - Transition
+- Reproductive success
+- Fertility
+- Mortality
 
 title: 'Page, A. E., et al. (2016) Reproductive trade-offs in extant hunter-gatherers suggest adaptive mechanism for the Neolithic expansion. PNAS'
 weight: 400
