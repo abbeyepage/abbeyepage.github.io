@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MCMC on Abigail E. Page</title>
+    <link>https://abbeyepage.github.io/tags/mcmc/</link>
+    <description>Recent content in MCMC on Abigail E. Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://abbeyepage.github.io/tags/mcmc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diekmann, Y., et al. (2017) Accurate age estimation in small-scale societies. PNAS</title>
+      <link>https://abbeyepage.github.io/publications/18age/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://abbeyepage.github.io/publications/18age/</guid>
+      <description>Citation
+Diekmann, Y., Smith, D., Gerbault, P., Dyble, M., Page, A.E., Chaudhary, N., Migliano, A.B., Thomas, M.G. (2017) Accurate age estimation in small-scale societies. PNAS, 114 (31): 8205-8210.
+Abstract
+Precise estimation of age is essential in evolutionary anthropology, especially to infer population age structures and understand the evolution of human life history diversity. However, in small-scale societies, such as hunter-gatherer populations, time is often not referred to in calendar years, and accurate age estimation remains a challenge.</description>
+    </item>
+    
+  </channel>
+</rss>
