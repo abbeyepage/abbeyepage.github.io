@@ -15,16 +15,12 @@
       "skills":[ "Dr Anushé Hassan (completed Jan 2021)","Annika Chambers (MSc Reproductive and Sexual Health Research)","Lily Bishop (MSc Demography and Health)"]
   },
     {
-      "grouping":"Service",
+      "grouping":"Mentorship",
       "skills":[ "Academic lead of LSHTM Young Scientists Programme","LSHTM Mentor"]
-  },
-      {
-      "grouping":"Skills",
-      "skills":[ "Git", "RStats", "Mixed-effect models", "Social network analysis", "Cox regressions", "Data Science", "Quantitative data collection", "Mixed-methods research", "Online surveys"]
   },
   {
       "grouping":"Academic principles and commitments",
-      "skills":[ "Mentorship","Kindness", "Co-production of Knowledge", "Diversity in Science", "Transparency", "Open Science", "Capability Building"]
+      "skills":[ "Support","Kindness", "Co-production of Knowledge", "Diversity in Science", "Transparency", "Open Science", "Capability Building"]
   },
     {
         "grouping":"Teaching Past and Present",
