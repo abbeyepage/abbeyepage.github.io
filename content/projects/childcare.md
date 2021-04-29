@@ -36,14 +36,14 @@ In another paper, my colleague Sarah Myers and I were really interested in under
 Teaming up with [Anushé Hassan](https://www.lshtm.ac.uk/aboutus/people/hassan.anushe) - who has done some excellent work on [sex-biased parental care in Tanzania](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/fathers-favour-sons-mothers-dont-discriminate-sexbiased-parental-care-in-northwestern-tanzania/A61B8C1EB61C1883F70F6D9A8D62B3FF), as well as forthcoming work on the impact of market integration on allomothering - we are currently exploring diversity in allomothering. We aim to shed light onto the documented diversity of allomothering by exploring how it varies by livelihood diversity in a population of mobile and settled hunter-gatherers, the Agta. Specifically, we test if we can successfully predict who are important allomothers following a risk-based hypothesis, since cooperation has been argued to have evolved to deal with unpredictability resulting in shortfalls and loss. To hear about the preliminary results from this analysis please see our AAPA 2021 talk below. 
 
 
- {{< youtube id="qstbdU_s6-8" t="80" width="600px" >}}
+ {{< youtube id="qstbdU_s6-8">}}
  
- 
-<br          />
+
+<br/>
 
 
 Who provides childcare, and why this varies, is also likely related to demographic structures. It has long been understood that close kin are essential allomothers, in particular grandmothers who have a vested interest in their grandchildren and an (assumed) reduction in their own caring responsibilities. However, while the importance of grandmothers has been well demonstrated in a number of populations, they also appear to be of little importance in others. Understanding the factors which support, or hinder, grandmaternal childcare, such as demographic schedules, is an important next step. Working with [Susie Lee ](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/susie_lee_4087/) and [Rebecca Sear](https://www.lshtm.ac.uk/aboutus/people/sear.rebecca), we are currently exploring how demographic processes (age-specific fertility and mortality trends) impact grandmaternal presence, availability and willing to provide allomaternal care. This research is informed by findings in the Agta that grandmothers were notable in their absence, providing between 0-3% of childcare. Due to high mortality and residential mobility, only 28% of children resided with a grandmother. In the reduced sample of children with grandmothers (n = 34), grandmaternal involvement only increased to 1-5% likely due to reproductive competition. Further, due to early age at first birth and high fertility (TFR 7.7) many grandmothers (95%) also had several competing offspring and grandoffspring. In settled camps in which grandmothers had fewer dependents (1 versus 2 in mobile camps) they provided 152% more childcare, suggesting the importance of generational overlap.
 
-<br          />
+<br/>
 
-![alt text](/img/playgroup.jpg)
+{{< figure src="/img/playgroup.jpg">}}

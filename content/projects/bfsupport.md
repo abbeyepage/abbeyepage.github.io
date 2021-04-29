@@ -1,6 +1,7 @@
 ---
 date: "2021-02-01T12:41:05-05:00"
 description: This project investigates the different kinds of support mothers of infants receive from different sources (such as fathers, grandmothers and professionals), and the impact this has on maternal experience and infant feeding. Findings will contribute to public health understandings of how best to support mothers during the first few years of their children’s lives.
+
 featured: true
 image:
 link: https://osf.io/dybup/ 
@@ -21,7 +22,7 @@ title: Social support, maternal experience and infant feeding
 
 **Funding: [European Human Behaviour and Evolution Society](https://www.cambridge.org/core/membership/ehbea)**
 
-​
+
 
 While the public health literature demonstrates a positive association between social support and breastfeeding, research has generally focused on informational and emotional support, overlooking practical help. Research also overlook wider sources of support, such as grandparents. Informed by evolutionary theory, we investigate how different types of support from different allomothers are associated with breastfeeding duration and maternal experience of infant feeding.
 
