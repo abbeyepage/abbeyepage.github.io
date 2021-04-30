@@ -3,7 +3,7 @@ date: "2020-01-02"
 description: Using retrospective data from an UK-based online survey (data collection period December 2017 - February 2018), we carry out a latent class regression (n = 432) to identify “clusters” of postnatal support in our data.
 fact: NA
 featured: true
-image: /img/typotable.png
+image: 
 link: https://www.sciencedirect.com/science/article/pii/S0277953620300101
 pubtype: Journal article
 sitemap:
@@ -33,4 +33,4 @@ There is extensive evidence to suggest that social support improves breastfeedin
 
 Overall, our results hint at the potential value for health professionals to engage with wider family in order to achieve extensive support for mothers.
 
-
+![alt text](/img/typotable.png) 

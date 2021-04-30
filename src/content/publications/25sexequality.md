@@ -3,7 +3,7 @@ date: "2015-05-04"
 description: Evolutionary theory stresses the importance of living with kin, not least because they share some of our genes. Nevertheless, a large-scale assessment of contemporary hunter-gatherer societies has established a consistent pattern of unrelated individuals living together. Here we used a modelling approach to suggest that a possible answer to this conundrum is that cohabitation choices are being governed equally by men and women.
 fact: NA
 featured: true
-image: /img/sexequality.png
+image: 
 link: https://science.sciencemag.org/content/348/6236/796
 pubtype: Journal article
 sitemap:

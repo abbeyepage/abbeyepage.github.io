@@ -1,9 +1,9 @@
 ---
-date: "2021-05-01"
+date: "2021-05-03"
 description: Special issue of Philosophical transaction of the Royal Society B edited by Abigail E. Page, Sarah Myers and Emily H. Emmott 
 fact: NA
 featured: true
-image: /img/specissfront.png
+image:
 link: https://protect-eu.mimecast.com/s/5lzZCl714T1ErlrcGDoFp?domain=royalsocietypublishing.org
 pubtype: Special Issue
 sitemap:
@@ -68,7 +68,9 @@ PART VI: SUPPORTING CHILD SURVIVAL AND DEVELOPMENT
 - Children’s fingernail cortisol among BaYaka foragers of the Congo Basin: associations with fathers’ roles. By Lee T Gettler et al.
 
 - Was Cinderella just a fairy tale? Survival differences between stepchildren and their half-siblings. By Ryan Schacht, Huong Meeks, Alison Fraser and Ken R Smith.
- 
+
+![alt text](/img/specissfront.png) 
+
 <!-- 
 for video of round table? 
  {{< youtube id="FsfKsqI07jM" t="80" width="600px" >}}

@@ -3,7 +3,7 @@ date: "2019-08-02"
 description: We used high-resolution proximity data from 1,701 child–alloparent dyads to test why alloparents help in the Agta.
 fact: NA
 featured: true
-image: /img/whycare.png
+image:
 link: https://www.nature.com/articles/s41562-019-0679-2?proof=t
 pubtype: Journal article
 sitemap:
@@ -25,4 +25,5 @@ Page, A. E., Thomas, M., Viguier, S., Dyble, M., Smith, D., Chaudhary, N., Salal
 
 Human children are frequently cared for by non-parental caregivers (alloparents), yet few studies have conducted systematic alternative hypothesis tests of why alloparents help. Here we explore whether predictions from kin selection, reciprocity, learning-to-mother and costly signalling hypotheses explain non-parental childcare among Agta hunter-gatherers from the Philippines. To test these hypotheses, we used high-resolution proximity data from 1,701 child–alloparent dyads. Our results indicated that reciprocity and relatedness were positively associated with the number of interactions with a child (our proxy for childcare). Need appeared more influential in close kin, suggesting indirect benefits, while reciprocity proved to be a stronger influence in non-kin, pointing to direct benefits. However, despite shared genes, close and distant kin interactions were also contingent on reciprocity. Compared with other apes, humans are unique in rapidly producing energetically demanding offspring. Our results suggest that the support that mothers require is met through support based on kinship and reciprocity.
 
+![alt text](/img/whycare.png) 
 

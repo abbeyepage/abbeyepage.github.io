@@ -3,7 +3,7 @@ date: "2020-02-02"
 description: Here, we investigated the effect of multilevel sociality on cumulative cultural evolution by using wireless sensing technology to map inter- and intraband social networks among Agta hunter-gatherers.
 fact: NA
 featured: true
-image: /img/Cumcultpaper.png
+image:
 link: https://advances.sciencemag.org/content/6/9/eaax5913
 pubtype: Journal article
 sitemap:

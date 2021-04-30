@@ -3,7 +3,7 @@ date: "2017-12-03"
 description: Here we explore the impact of storytelling on hunter-gatherer cooperative behaviour and the individual-level fitness benefits to being a skilled storyteller
 fact: NA
 featured: true
-image: /img/story.png
+image: 
 link: https://www.nature.com/articles/s41467-017-02036-8.pdf
 pubtype: Journal article
 sitemap:
