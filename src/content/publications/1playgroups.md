@@ -1,5 +1,5 @@
 ---
-date: "2021-05-01"
+date: "2021-04-29"
 description: Here, using in-depth observational data on who for cares for 78 Agta children (aged 0-6 years, a foraging population in northern Philippines), we explore whether allomaternal childcare substitutes (and thus decreases) maternal childcare.  
 fact: NA
 featured: true
@@ -21,7 +21,7 @@ weight: 400
 ---
 **Citation**
 
-Page, A. E., Emmott, E. H., Dyble, M., Smith, D., Chaudhary, N., Viguier, S., & Migliano, A. (2021) Children are important too: juvenile playgroups and maternal childcare in a foraging population, the Agta. Phil Trans B, ......
+Page, A. E., Emmott, E. H., Dyble, M., Smith, D., Chaudhary, N., Viguier, S., & Migliano, A. (2021) Children are important too: juvenile playgroups and maternal childcare in a foraging population, the Agta. Phil. Trans. R. Soc. B 376: 20200026.
 
 **Abstract** 
 

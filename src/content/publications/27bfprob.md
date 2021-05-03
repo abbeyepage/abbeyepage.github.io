@@ -15,7 +15,7 @@ tags:
 - Cooperative childrearing
 - Social support
 
-title: 'Page, A. E., Emmott, E. H., and Myers, S. (Preprint) Testing the buffering hypothesis: breastfeeding problems, cessation and social support.'
+title: 'Page, A. E., Emmott, E. H., and Myers, S. Testing the buffering hypothesis: breastfeeding problems, cessation and social support.'
 weight: 400
 ---
 **Citation**
