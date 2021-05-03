@@ -4,7 +4,7 @@ description: Special issue of Philosophical transaction of the Royal Society B e
 fact: NA
 featured: true
 image:
-link: https://protect-eu.mimecast.com/s/5lzZCl714T1ErlrcGDoFp?domain=royalsocietypublishing.org
+link: https://royalsocietypublishing.org/toc/rstb/current 
 pubtype: Special Issue
 sitemap:
   priority: 0.8
@@ -21,7 +21,7 @@ weight: 400
 
 It is widely acknowledged that women with children require high levels of social support to promote their, and their children’s, health and wellbeing. However, studies on social support often take overly narrow Western perspectives, leading to biased understandings of support and its impact on maternal-child health. We know social support is complex, coming in different forms and from different sources, influenced by environmental context. In this multidisciplinary special issue, we explore social support from different perspectives: While Western norms assume that childcare comes under the responsibility of mothers, in reality, childrearing is widely shared and supported in different ways across societies. Overall, a multidisciplinary approach deepens our understanding of social support and its consequences for mothers and children.
 
-I have written a blog on the importance of social support for mothers and children for [LSHTM expert opinions](https://www.lshtm.ac.uk/newsevents/expert-opinion/childcare-covid-why-social-support-mothers-and-their-children-has-never?utm_source=Twitter&utm_medium=Social%20media&utm_campaign=Childcare%20in%20COVID%20%E2%80%93%20why%20social%20support%20for%20mothers%20and%20their%20children%20has%20never%20been%20more%20relevant/).
+I have written a blog on the importance of social support for mothers and children for [LSHTM Expert Opinion](https://www.lshtm.ac.uk/newsevents/expert-opinion/childcare-covid-why-social-support-mothers-and-their-children-has-never?utm_source=Twitter&utm_medium=Social%20media&utm_campaign=Childcare%20in%20COVID%20%E2%80%93%20why%20social%20support%20for%20mothers%20and%20their%20children%20has%20never%20been%20more%20relevant/).
 
 **SPECIAL ISSUE OVERVIEW**
 

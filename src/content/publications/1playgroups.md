@@ -1,10 +1,10 @@
 ---
-date: "2021-04-29"
+date: "2021-05-03"
 description: Here, using in-depth observational data on who for cares for 78 Agta children (aged 0-6 years, a foraging population in northern Philippines), we explore whether allomaternal childcare substitutes (and thus decreases) maternal childcare.  
 fact: NA
 featured: true
 image:
-link: https://protect-eu.mimecast.com/s/5lzZCl714T1ErlrcGDoFp?domain=royalsocietypublishing.org
+link: https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0026
 pubtype: Journal article
 sitemap:
   priority: 0.8

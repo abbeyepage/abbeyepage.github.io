@@ -4,7 +4,7 @@ description: Using survey data collected online from 515 UK mothers with infants
 fact: NA
 featured: true
 image:
-link: https://protect-eu.mimecast.com/s/5lzZCl714T1ErlrcGDoFp?domain=royalsocietypublishing.org
+link: https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0034 
 pubtype: Journal article
 sitemap:
   priority: 0.8
