@@ -1,5 +1,5 @@
 ---
-date: "2021-05-02"
+date: "2021-05-01"
 description: Using survey data collected online from 515 UK mothers with infants aged 0–108 weeks, Cox regression models assessed the relationship between receiving different types of support, support need and breastfeeding duration.
 fact: NA
 featured: true
