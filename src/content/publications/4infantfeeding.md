@@ -20,7 +20,7 @@ weight: 400
 ---
 **Citation**
 
-Myers, S., Page, A. E. and Emmott, E. H., (2021) The differential role of practical and emotional support in infant feeding experience in the UK? Phil Trans. B.....
+Myers, S., Page, A. E. and Emmott, E. H., (2021) The differential role of practical and emotional support in infant feeding experience in the UK? Trans. R. Soc. B 376: 20200034
 
 **Abstract** 
 

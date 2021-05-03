@@ -20,7 +20,7 @@ weight: 400
 ---
 **Citation**
 
-Emmott, E. H., Myers, S. and Page, A. E. (2021) Who cares for women with children? Crossing the bridge between disciplines. Phil Trans. B.....
+Emmott, E. H., Myers, S. and Page, A. E. (2021) Who cares for women with children? Crossing the bridge between disciplines. Trans. R. Soc. B 376: 20200019
 
 **Abstract** 
 
